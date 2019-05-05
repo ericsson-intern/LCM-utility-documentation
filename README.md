@@ -14,7 +14,7 @@
 - Method xTree
   1. building dependency graph via reading recursively through directories
   2. Consider special condidtions for use-cases
-  3. update the full depency tree and then recursively update all pom.xml via implementing all of given features.
+  3. update the full dependency tree and then recursively update all pom.xml via implementing all of given features.
   4. commit message build
 
 - Method Regex
